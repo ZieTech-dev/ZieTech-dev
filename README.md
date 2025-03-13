@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Visitez mon profil](https://img.shields.io/badge/visits-1234-blue)
+
+## 💻 Mes projets
+- **[Projet 1](https://github.com/ZieTech-dev/Scraping-Alibaba)**
+
+![Mon projet animé](https://media.giphy.com/media/3o6Zt7hCU9cHLMJl04/giphy.gif)
 <!--
 **ZieTech-dev/ZieTech-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
