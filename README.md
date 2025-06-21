@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/ZieTech-dev">
     <img width="80%" alt="Hello, I'm PaulEm, Welcome to my GitHub!" src="./assets/banner.png" />
@@ -65,6 +66,8 @@ Je suis un étudiant en Côte d’Ivoire, engagé à créer des solutions utiles
     <img alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=Software%20Engineer%20|%20Data%20Scientist&textBg=false&animation=fadeIn&fontSize=37&stroke=4E584A&strokeWidth=0.5" alt="Header banner" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
