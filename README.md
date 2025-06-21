@@ -41,11 +41,18 @@ Je suis un développeur passionné de Côte d’Ivoire 🇨🇮, engagé à cré
 ### 📌 Projets phares
 
 <a href="https://github.com/ZieTech-dev/Dj-ci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=Dj-ci&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=projetEtab-java&theme=radical" />
 </a>
 <a href="https://github.com/ZieTech-dev/election-rfid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=election-rfid&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=systeme-vote-cei&theme=radical" />
 </a>
+<a href="https://github.com/ZieTech-dev/Dj-ci">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=Scraping-Alibaba&theme=radical" />
+</a>
+<a href="https://github.com/ZieTech-dev/un-autre-projet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=-IT-Park-Management&theme=radical" />
+</a>
+
 
 ---
 
