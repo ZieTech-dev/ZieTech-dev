@@ -5,8 +5,9 @@
 </p>
 
 <br />
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Je suis un développeur passionné de Côte d’Ivoire 🇨🇮, engagé à créer des solutions utiles pour mon pays et ma communauté.
+Je suis un étudiant en Côte d’Ivoire, engagé à créer des solutions utiles pour mon pays et ma communauté.
 
 ---
 
