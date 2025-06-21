@@ -33,18 +33,18 @@ Je suis un développeur passionné de Côte d’Ivoire 🇨🇮, engagé à cré
 
 ### 📊 Mes statistiques GitHub
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulEmDev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="PaulEm's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulEmDev&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZieTech-dev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="PaulEm's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZieTech-dev&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
 
 ### 📌 Projets phares
 
-<a href="https://github.com/PaulEmDev/djoci-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PaulEmDev&repo=djoci-platform&theme=radical" />
+<a href="https://github.com/ZieTech-dev/djoci-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=djoci-platform&theme=radical" />
 </a>
-<a href="https://github.com/PaulEmDev/election-rfid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PaulEmDev&repo=election-rfid&theme=radical" />
+<a href="https://github.com/ZieTech-dev/election-rfid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=election-rfid&theme=radical" />
 </a>
 
 ---
