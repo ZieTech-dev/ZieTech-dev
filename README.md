@@ -117,17 +117,6 @@
 
 ---
 
-<div align="center">
-  
-### 🏆 Trophées GitHub
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZieTech-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
 
 <div align="center">
   
