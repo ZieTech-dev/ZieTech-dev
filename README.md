@@ -1,74 +1,182 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD23F&height=80&section=header&text=Software%20Engineer%20|%20Data%20Scientist&fontSize=24&fontColor=fff&animation=fadeIn" />
+
 <p align="center">
-  <a href="https://github.com/ZieTech-dev">
-    <img width="80%" alt="Hello, I'm PaulEm, Welcome to my GitHub!" src="./assets/banner.png" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hello%2C+folks!+👋;Étudiant+en+Génie+Logiciel;Fondateur+de+Djôci;Passionné+par+la+Data+Science" alt="Typing SVG" />
 </p>
 
-<br />
-<p>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></p> 
-
-Je suis un étudiant en Côte d’Ivoire, engagé à créer des solutions utiles pour mon pays et ma communauté.
+<p align="center">
+  Je suis un étudiant en Côte d'Ivoire, engagé à créer des solutions utiles pour mon pays et ma communauté.
+</p>
 
 ---
 
+<div align="center">
+  
 ### ✨ À propos de moi
 
-- 🎓 Étudiant en Génie Logiciel à l'Institut Ivoirien de Technologie
-- 🛠️ Fondateur de **Djôci** – une plateforme pour gagner de l'argent en accomplissant des tâches
-- 🔬 Passionné par la **data science**, le **développement web**, et les **projets à impact**
-- 💬 Discutons ! [Pose-moi une question ici](https://github.com/ZieTech-dev/ZieTech-dev/issues)
-- 🌱 En ce moment, j'approfondis **Python avancé**, **Django**, **Flutter**, et **les réseaux (Cisco)**
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+🎓 **Formation**
+- Étudiant en Génie Logiciel à l'Institut Ivoirien de Technologie
+
+🛠️ **Projets**
+- Fondateur de **Djôci** – plateforme de micro-tâches rémunérées
+
+🔬 **Passions**
+- Data Science & Intelligence Artificielle
+- Développement Web & Mobile
+- Projets à impact social
+
+</td>
+<td width="50%">
+
+💬 **Contact**
+- [Pose-moi une question ici](https://github.com/ZieTech-dev/ZieTech-dev/issues)
+
+🌱 **Apprentissage continu**
+- Python avancé & Django
+- Flutter & développement mobile
+- Réseaux (Cisco)
+- Machine Learning & Deep Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+  
 ### 🛠️ Technologies & Outils
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
-<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flutter,javascript,react,postgresql,git,docker,linux,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,mongodb,mysql,firebase,figma&theme=dark" />
+</p>
 
 ---
 
+<div align="center">
+  
 ### 📊 Mes statistiques GitHub
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZieTech-dev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="PaulEm's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZieTech-dev&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZieTech-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&icon_color=F7931E" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZieTech-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZieTech-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=F7931E&fire=FFD23F&currStreakLabel=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZieTech-dev&theme=tokyo-night&bg_color=0D1117&color=C9D1D9&line=FF6B35&point=F7931E&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZieTech-dev&theme=github_dark&bg_color=0D1117&border_color=FF6B35&title_color=FF6B35&text_color=C9D1D9" />
+</div>
 
 ---
 
+<div align="center">
+  
 ### 📌 Projets phares
 
-<a href="https://github.com/ZieTech-dev/Dj-ci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=projetEtab-java&theme=radical" />
-</a>
-<a href="https://github.com/ZieTech-dev/election-rfid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=systeme-vote-cei&theme=radical" />
-</a>
-<a href="https://github.com/ZieTech-dev/Dj-ci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=Scraping-Alibaba&theme=radical" />
-</a>
-<a href="https://github.com/ZieTech-dev/un-autre-projet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=-IT-Park-Management&theme=radical" />
-</a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/ZieTech-dev/projetEtab-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=projetEtab-java&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&icon_color=F7931E" />
+  </a>
+  <a href="https://github.com/ZieTech-dev/systeme-vote-cei">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=systeme-vote-cei&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&icon_color=F7931E" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ZieTech-dev/Scraping-Alibaba">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=Scraping-Alibaba&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&icon_color=F7931E" />
+  </a>
+  <a href="https://github.com/ZieTech-dev/-IT-Park-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=-IT-Park-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&icon_color=F7931E" />
+  </a>
+</div>
 
 ---
 
-<p align="left">
+<div align="center">
+  
+### 🏆 Trophées GitHub
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZieTech-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+<div align="center">
+  
+### 📈 Contribution Snake
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZieTech-dev/ZieTech-dev/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🌐 Connectons-nous
+
+</div>
+
+<p align="center">
   <a href="https://twitter.com/ton_twitter">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ton_linkedin">
-    <img alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ton_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=Software%20Engineer%20|%20Data%20Scientist&textBg=false&animation=fadeIn&fontSize=37&stroke=4E584A&strokeWidth=0.5" alt="Header banner" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZieTech-dev&color=FF6B35&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Citation du jour
+
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=FF6B35" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFD23F&height=80&section=footer" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <i>⭐️ From <a href="https://github.com/ZieTech-dev">ZieTech-dev</a></i>
 </p>
