@@ -132,15 +132,11 @@
 </p>
 
 <p style="margin-top: 20px; font-size: 18px; color: #7FE85A;">
-  <strong>🌟 "Code with Purpose, Build with Passion" 🌟</strong>
+  <strong>🌟 "Codez avec un objectif, construisez avec passion" 🌟</strong>
 </p>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FE85A,50:8ED1FC,100:4E584A&height=100&section=footer" />
 
-<div align="center">
-  <p style="margin-top: 10px; color: #8ED1FC; font-size: 16px;">
-    <i>⭐️ Crafted with ❤️ by <a href="https://github.com/ZieTech-dev" style="color: #7FE85A;">ZieTech-dev</a></i>
-  </p>
-</div>
+
