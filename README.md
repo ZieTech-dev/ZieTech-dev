@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ZieTech-dev">
-    <img width="80%" alt="Hello, I'm PaulEm, Welcome to my GitHub!" src="https://user-images.githubusercontent.com/placeholder/your-banner.png" />
+    <img width="80%" alt="Hello, I'm PaulEm, Welcome to my GitHub!" src="./assets/banner.png" />
   </a>
 </p>
 
