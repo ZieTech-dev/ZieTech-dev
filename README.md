@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ZieTech-dev">
-    <img width="80%" alt="Hello, I'm PaulEm, Welcome to my GitHub!" src="./assets/banner.png" />
-  </a>
-</p>
-
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FE85A,50:8ED1FC,100:4E584A&height=80&section=header&text=Software%20Engineer%20|%20Data%20Scientist&fontSize=24&fontColor=fff&animation=fadeIn" />
 
@@ -136,18 +129,6 @@
   <a href="https://github.com/ZieTech-dev/-IT-Park-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZieTech-dev&repo=-IT-Park-Management&theme=tokyonight&hide_border=true&bg_color=2E2E2E&title_color=7FE85A&text_color=F9F9F9&icon_color=8ED1FC" />
   </a>
-</div>
-
----
-
-<div align="center">
-  
-### 🏆 Trophées GitHub
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZieTech-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
