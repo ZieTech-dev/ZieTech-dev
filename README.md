@@ -135,9 +135,10 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZieTech-dev/ZieTech-dev/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<p align="center">
+  <img src="https://github.com/ZieTech-dev/ZieTech-dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
