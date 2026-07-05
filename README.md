@@ -5,5 +5,5 @@
 <p align="center">
   <em>"Il n'y a pas de faits, seulement des interprétations.<br>
   Derrière chaque fait se cache une perspective"</em><br>
-  — Friedrich Nietzsche
+  Friedrich Nietzsche
 </p>
